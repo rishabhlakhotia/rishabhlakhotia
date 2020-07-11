@@ -10,7 +10,7 @@ I'm a DevOps enthusiast and I like to automate things that can be done manually 
 
 Feel free to go through my repositories and my projects.
 
-![It ain't much but it's honest work](https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg)
+![It ain't much but it's honest work](https://res.cloudinary.com/rishabhlakhotia/image/upload/v1594432627/honest-work_trikpv.jpg)
 
 <!--
 **rishabhlakhotia/rishabhlakhotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
