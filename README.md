@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhlakhotia" alt="rishabhlakhotia" /> </p>
+
 I just found out this 'secret' repository and let's see how this can be used.
 
 I'm a DevOps enthusiast and I like to automate things that can be done manually in 10 minutes. Sigh! I'm currently looking for a DevOps Engineer position and if you're looking to hire you can reach out to me at [hello@rishabhlakhotia.com](mailto:hello@rishabhlakhotia.com). Also, my LinkedIn is at [https://www.linkedin.com/in/rishabhlakhotia](https://www.linkedin.com/in/rishabhlakhotia).
@@ -7,6 +9,8 @@ I'm a DevOps enthusiast and I like to automate things that can be done manually 
 - I'm currently learning for AWS Certified Developer - Associate
 - I like to code in Node.js and Python
 - I'm building a mailserver for students to host their custom emails for free (Ping me if you'd like to help)
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhlakhotia&show_icons=true" alt="My GitHub stats" />
 
 Feel free to go through my repositories and my projects.
 
