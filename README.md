@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhlakhotia" alt="rishabhlakhotia" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=rishabhlakhotia" alt="rishabhlakhotia" /> 
+
+[![Linkedin: rishabhlakhotia](https://img.shields.io/badge/-rishabhlakhotia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabhlakhotia/)]
+</p>
 
 I just found out this 'secret' repository and let's see how this can be used.
 
