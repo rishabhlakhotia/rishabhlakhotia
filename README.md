@@ -15,7 +15,7 @@ I'm a DevSecOps enthusiast and I like to automate things. I like defensive secur
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhlakhotia&show_icons=true" alt="My GitHub stats" />
 
-Feel free to go through my repositories and my projects.
+Most of the work I have done are in the private repositories. However, feel free to go through my open repositories and my projects.
 
 ![It ain't much but it's honest work](https://res.cloudinary.com/rishabhlakhotia/image/upload/v1594432627/honest-work_trikpv.jpg)
 
